@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 17 21:08:38 2016
-
-@author: renyan
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 17 16:38:13 2016
-
-@author: renyan
-"""
-
 # shortest edit distance algorithm
 # an example of dynamical programing
 
