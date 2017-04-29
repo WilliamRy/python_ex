@@ -25,3 +25,7 @@ Therefore our assumption is false, the prop for n = k+1 is true.
 In the solution function, we find an element s_k of Y(S_k) inductively, where S_k = S[:k], k = 1,...,n . 
 So in the worst case, at k step we have to consider {s_i}(i<k), then the time complexity of this algorithm is O(n^2).
 But generally(S doesn't have a lot of zeros), as a result of some optimizing, we can hope the complexity is O(nlogn). 
+
+
+
+#==================================
