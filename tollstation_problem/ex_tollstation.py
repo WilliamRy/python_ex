@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 19 22:13:52 2016
-
-@author: renyan
+the classical toll station problem:
+given the distance between all toll stations on a long road,
+find the location of them.
 """
 
 import random
